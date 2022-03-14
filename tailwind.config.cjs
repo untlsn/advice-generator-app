@@ -10,13 +10,12 @@ module.exports = {
         catalogs: '3rem',
       },
       colors: {
-        main: {
-          blue: '#390099',
-          purple: '#d51755',
-          fuchsia: '#FF0054',
-          orange: '#FF5400',
-          yellow: '#FFBD00',
+        gray: {
+          dark: '#202632',
+          normal: '#313a49',
         },
+        neon: '#53FFAB',
+        text: '#CFE2E8',
       },
     },
   },
